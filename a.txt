@@ -4,4 +4,5 @@ Git pull try
 some changes 
 jjj
 no changes
-fifth change
+fifth changeadd
+seventh changed
